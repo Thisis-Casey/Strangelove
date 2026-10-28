@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/tchaek/strangelove_mgspw/pants"
+	"$bumpmap" "models/tchaek/strangelove_mgspw/common/50_n"
+
+	$phong 1
+	$phongexponent 6
+	$phongboost 10
+	$phongfresnelranges "[.05 .5 .95]"
+
+	$halflambert 1
+	$phongalbedotint 1
+	$nocull 1
+	$phongexponenttexture "models/tchaek/strangelove_mgspw/common/strong_e"
+
+	$rimlight 1
+	$rimlightexponent 7
+	$rimlightboost 1
+}
